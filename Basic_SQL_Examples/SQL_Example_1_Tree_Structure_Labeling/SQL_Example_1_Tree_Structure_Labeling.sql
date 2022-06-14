@@ -4,7 +4,7 @@ CREATE DATABASE SQLExamples
 USE SQLExamples
 
 CREATE TABLE tree(
-	node TINYINT,
+	[node] TINYINT,
 	parent TINYINT NULL
 );
 
