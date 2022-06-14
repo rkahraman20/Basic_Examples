@@ -8,7 +8,7 @@ CREATE TABLE tree(
 	parent TINYINT NULL
 );
 
-INSERT tree VALUES (1, 2), (2, 5), (3, 5), (4, 3), (5, NULL)
+INSERT tree VALUES (1, 2), (2, 5), (3, 5), (4, 3), (5, NULL);
 
 SELECT * FROM tree;
 
