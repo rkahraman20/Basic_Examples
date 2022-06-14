@@ -12,7 +12,6 @@ SELECT AVG(Total) AS average_product_quantity
 FROM cte_quantity;
 
 
-
 --Example Part 2
 USE Northwind
 
